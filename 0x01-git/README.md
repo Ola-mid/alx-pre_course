@@ -1,2 +1,2 @@
 my second commit
-I am currently studying at alx
+I am currently studying at alx.
